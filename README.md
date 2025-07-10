@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @umme2323hani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Umme Hani
 
-<!---
-umme2323hani/umme2323hani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Passionate about Web Development and Data Analytics  
+🌟 Skilled in React, Python, Power BI, HTML, CSS, JavaScript  
+🔍 Actively seeking full-time opportunities in Tech (Remote or On-site)  
+📈 Focused on building real-world projects and growing every day  
+📫 Reach me at: ummehani181003@gmail.com  
+🌐 Portfolio: [Coming Soon]  
